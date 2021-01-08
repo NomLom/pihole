@@ -281,7 +281,6 @@
 0.0.0.0	gamesradar.com
 0.0.0.0	gamingdragons.com
 0.0.0.0	gamivo.com
-0.0.0.0	gateway.discord.gg
 0.0.0.0	gds1.steampowered.com
 0.0.0.0	gds2.steampowered.com
 0.0.0.0	gds3.steampowered.com
@@ -404,6 +403,7 @@
 0.0.0.0	mmoga.fr
 0.0.0.0	moddota.com
 0.0.0.0	modexpo.com
+0.0.0.0 mojang.com
 0.0.0.0	mx1.steampowered.com
 0.0.0.0	mx2.steampowered.com
 0.0.0.0	mx3.steampowered.com
