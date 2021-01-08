@@ -238,6 +238,7 @@
 0.0.0.0	es.socialclub.rockstargames.com
 0.0.0.0	eu.api.blizzard.com
 0.0.0.0	eu.battle.net
+0.0.0.0 eu.patch.battle.net
 0.0.0.0	eu.cdn.blizzard.com
 0.0.0.0	eu.launcher.battle.net
 0.0.0.0	eu.playstation.com
@@ -432,6 +433,7 @@
 0.0.0.0	originassets.akamaized.net
 0.0.0.0	otakumaker.com
 0.0.0.0	overlay.ubisoft.com
+0.0.0.0 overwolf.com
 0.0.0.0	partner.steamgames.com
 0.0.0.0	partner.steampowered.com
 0.0.0.0	paypal.steampowered.com
@@ -648,6 +650,7 @@
 0.0.0.0	ubi.com
 0.0.0.0	ubisoft.com
 0.0.0.0	ubistatic2-a.akamaihd.net
+0.0.0.0 ubisoft-avatars.akamaized.net
 0.0.0.0	uk.gamesplanet.com
 0.0.0.0	unrealstudiohelp.epicgames.com
 0.0.0.0	uplay.ubi.com
