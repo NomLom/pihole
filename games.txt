@@ -400,6 +400,7 @@
 0.0.0.0	midnight-riders.com
 0.0.0.0	midnight-riders.net
 0.0.0.0	minervametastasis.com
+0.0.0.0 minecraft.net
 0.0.0.0	mmoga.fr
 0.0.0.0	moddota.com
 0.0.0.0	modexpo.com
