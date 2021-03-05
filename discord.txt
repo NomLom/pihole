@@ -5,6 +5,3 @@
 0.0.0.0	discord.media
 0.0.0.0	discordapp.com
 0.0.0.0 gateway.discord.gg
-0.0.0.0	youtube.com
-0.0.0.0 googlevideo.com
-0.0.0.0 twitch.tv
