@@ -482,6 +482,7 @@
 0.0.0.0	rimoplay.com
 0.0.0.0	riotgames.com
 0.0.0.0	rockstargames.com
+0.0.0.0 roblox.com
 0.0.0.0	rta.xboxlive.com
 0.0.0.0	ru.socialclub.rockstargames.com
 0.0.0.0	s.lolstatic.com
